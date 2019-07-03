@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cgrepository\\WebApplication1\\WebApplication1.csproj": {}
+    "D:\\newproject\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\cgrepository\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\newproject\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cgrepository\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\newproject\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\cgrepository\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "D:\\newproject\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\OMPRAKASH PANDEY\\.nuget\\packages\\",
-        "outputPath": "D:\\cgrepository\\WebApplication1\\obj\\",
+        "outputPath": "D:\\newproject\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
